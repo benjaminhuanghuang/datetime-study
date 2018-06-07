@@ -1,0 +1,23 @@
+{
+  "name": "datetime-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminhuanghuang/datetime-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminhuanghuang/datetime-study/issues"
+  },
+  "homepage": "https://github.com/benjaminhuanghuang/datetime-study#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
